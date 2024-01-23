@@ -4,6 +4,7 @@
 # Add more SimWrapper sites here:
 
 sites = {
-  "vsp": "https://vsp.berlin/simwrapper/",
-  "asim": "https://activitysim.github.io/dashboard/"
+  "asim": "https://activitysim.github.io/dashboard/",
+  "beam": "https://simwrapper.github.io/beam/",
+  "vsp": "https://vsp.berlin/simwrapper/"
 }

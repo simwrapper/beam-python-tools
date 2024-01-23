@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-import click       # cmdline generator! https://click.palletsprojects.com/en/8.0.x
+# cmdline generator! https://click.palletsprojects.com/en/8.0.x
+import click
+
 import webbrowser
 import os
 
