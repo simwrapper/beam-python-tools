@@ -10,10 +10,10 @@ with open('VERSION', 'r') as f:
 
 # This call to setup() does all the work
 setup(
-    name="simwrapper",
+    name="beam-viewer",
     version=VERSION,
-    description="Python support library for SimWrapper data visualization tool",
-    url="https://github.com/simwrapper/simwrapper-python-tools",
+    description="Python support library for SimWrapper BEAM data visualization tool",
+    url="https://github.com/simwrapper/beam-python-tools",
     author="Billy Charlton",
     author_email="billy@okbecause.com",
     license="GPLv3",
@@ -31,7 +31,7 @@ setup(
     tests_require=["assertpy", "pytest"],
     entry_points={
         'console_scripts': [
-            'simwrapper = simwrapper.cli:cli'
+            'beam-viewer = simwrapper.cli:cli'
         ]
     },
     long_description_content_type="text/markdown",
