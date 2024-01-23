@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.9.0](https://github.com/simwrapper/simwrapper-python-tools/compare/v1.8.4...v1.9.0) (2024-01-23)
+
+
+### Features
+
+* BEAM model support ([4cc8583](https://github.com/simwrapper/simwrapper-python-tools/commit/4cc8583bdd693f387cb024b746ca04b58b2f9c7d))
+
 ### [1.8.4](https://github.com/simwrapper/simwrapper-python-tools/compare/v1.8.3...v1.8.4) (2022-06-03)
 
 ### [1.8.3](https://github.com/simwrapper/simwrapper-python-tools/compare/v1.8.2...v1.8.3) (2022-05-30)
