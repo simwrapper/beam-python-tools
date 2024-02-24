@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.10.0](https://github.com/simwrapper/beam-python-tools/compare/v1.9.3...v1.10.0) (2024-02-24)
+
+
+### Features
+
+* update BEAM site with background layers etc ([6df15c3](https://github.com/simwrapper/beam-python-tools/commit/6df15c3888b42de9702ba88eee28c55ed92186f9))
+
 ### [1.9.3](https://github.com/simwrapper/beam-python-tools/compare/v1.9.2...v1.9.3) (2024-02-08)
 
 ### [1.9.2](https://github.com/simwrapper/beam-python-tools/compare/v1.9.1...v1.9.2) (2024-01-23)
